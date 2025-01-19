@@ -7,7 +7,7 @@ local config = wezterm.config_builder()
 -- This is where you actually apply your config choices
 
 -- For example, changing the color scheme:
-config.color_scheme = "GitHub Dark"
+config.color_scheme = "Grape"
 
 -- Font:
 config.font = wezterm.font("MesloLGS Nerd Font Mono")
