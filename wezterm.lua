@@ -11,7 +11,7 @@ config.color_scheme = "Grape"
 
 -- Font:
 config.font = wezterm.font("MesloLGS Nerd Font Mono")
-config.font_size = 14.0
+config.font_size = 12.0
 
 -- Window transparency
 config.window_background_opacity = 0.9
